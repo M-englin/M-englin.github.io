@@ -1,6 +1,6 @@
-title: Gaurav Chaurasia
-description: Gaurav Chaurasia's webpage
-sourcecode: "https://github.com/gchauras/gchauras.github.io"
+title: Menglin
+description: Menglin's webpage
+
 
 permalink: blog/:year/:month/:day/:title
 exclude: ["Makefile", "README.md"]
@@ -11,9 +11,8 @@ baseurl: ""                     # the subpath of your site, e.g. /blog
 # baseurl: ""
 
 author:
-    name: Gaurav Chaurasia
-    facebook: gchauras
-    scholar: pBaL_DgAAAAJ
+    name: Menglin Guo
+
 
 # Build settings
 markdown: kramdown
