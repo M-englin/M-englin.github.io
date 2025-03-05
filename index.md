@@ -6,12 +6,17 @@ permalink: /
 
 {% include image.html url="images/profile_1.jpg" caption="Sept 2016" width="300px" align="right" %}
 
-I work at [Oculus] on VR and related problems.
-I was a postdoc first at [MIT] with [Fredo Durand] and [Sylvain Paris],
-and then in the vision and robotics group at [Disney Research Zurich]. I completed
-my PhD under the guidance of [George Drettakis] at [INRIA] in the beautiful French
-Riviera. I obtained my Masters degree in computer science at [ENSIMAG]. In an
-earlier life, I used to be an undergrad at [Indian Institute of Technology Delhi].
+
+Menglin Guo is a **Bachelor of Science (BS) student** majoring in **Computer Science** at **Macau University of Science and Technology (澳门科技大学)**.
+
+She is currently **actively seeking job opportunities** in the tech industry.
+
+- Software Development  
+- Systems Programming  
+- Cloud Computing  
+- Linux Kernel  
+
+For job inquiries, feel free to reach out!
 
 Email: [gchauras@meta.com]
 
